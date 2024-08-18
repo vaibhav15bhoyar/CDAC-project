@@ -1,2 +1,2 @@
 # CDAC-project
-these is the project developed during our CDAC course.
+these is the project developed during our CDAC course.in these project we have Designed and implemented a travel planning application that collects user inputs such as destination, travel duration, budget, and group size to generate a customized trip plan. The application interfaces with the Gemini API to retrieve personalized itineraries, including hotel recommendations and day-wise activity plans. Leveraged React JS for building the user interface, Spring Boot for backend services, Tailwind CSS for responsive design, and MongoDB for data management. Additionally, integrated Google APIs to enhance functionality and provide a seamless travel planning experience.
